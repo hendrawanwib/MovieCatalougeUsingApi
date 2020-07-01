@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMovieKatalogueAPI</string>
+    <string name="item_name">nama</string>
+    <string name="desc">Deskripsi</string>
+    <string name="judul">Judul</string>
+    <string name="tanggal_rilis">Tanggal Rilis : </string>
+    <string name="sinopsis">Sinopsis : </string>
+
+
+    <string name="nama_film">Nama Film</string>
+    <string name="dekripsi">Dekripsi</string>
+    <string name="release_date">Tanggal Rilis</string>
+
+
+    <string name="detail">detail</string>
+    <string name="ganti_bahasa">Ganti Bahasa</string>
+    <string name="film">Movie</string>
+    <string name="sinetron">TV Show</string>
+</resources>

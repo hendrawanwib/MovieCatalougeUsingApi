@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9370DB</color> /* Purple Medium */
+    <color name="colorPrimaryDark">#1E1F26</color> /* Midnight Blue */
+    <color name="colorAccent">#283655</color> /* Indigo Ink */
+    <color name="backgroundFragment">#FFF</color> /* Blueberry */
+
+</resources>
